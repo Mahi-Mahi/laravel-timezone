@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "laravel/framework": "^8 || ^9",
+        "laravel/framework": "^8 || ^9||^10",
         "torann/geoip": "^3.0",
         "nesbot/carbon": "^2.0"
     },
